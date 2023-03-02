@@ -9,3 +9,4 @@ It consists of;
 
 ## Tableau - AirBnB Full Project
 https://public.tableau.com/views/AirBnBFullProject_16777454399900/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+![AirBnB Full Project](https://user-images.githubusercontent.com/59838493/222373923-a7b13538-8bab-472a-ba11-586e52aced1a.png)
